@@ -1,0 +1,4 @@
+Problems I couldn't overcome:
+
+    1. I couldn't replicate the navbar "dropdown menu" in small screen. It looks like the whole style is changing.
+    2. I couldn't make he "How it Works" section responsive( it is ith image and other things).
